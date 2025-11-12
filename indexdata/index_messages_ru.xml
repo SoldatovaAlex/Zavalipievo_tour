@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[Zavalipievo]]></data>
+  <data name="ru_project_author_name"><![CDATA[Soldatova Alexandra]]></data>
+  <data name="ru_project_author_url"><![CDATA[http://soldatova-alex-photo.ru]]></data>
+
+
+
+  <data name="ru_pano50_title"><![CDATA[Вход на территорию]]></data>
+
+
+  <data name="ru_pano10_title"><![CDATA[Дом 1. Вход]]></data>
+
+
+  <data name="ru_pano11_title"><![CDATA[Дом 1. Прихожая]]></data>
+
+
+  <data name="ru_pano12_title"><![CDATA[Дом 1. Малая спальня]]></data>
+
+
+  <data name="ru_pano13_title"><![CDATA[Дом 1.  Санузел]]></data>
+
+
+  <data name="ru_pano14_title"><![CDATA[Дом 1. Предбанник]]></data>
+
+
+  <data name="ru_pano15_title"><![CDATA[Дом 1.  Баня]]></data>
+
+
+  <data name="ru_pano16_title"><![CDATA[Дом 1. Гостиная]]></data>
+
+
+  <data name="ru_pano17_title"><![CDATA[Дом 1. Мастер спальня]]></data>
+
+
+  <data name="ru_pano18_title"><![CDATA[Дом 1. Терраса]]></data>
+
+
+  <data name="ru_pano19_title"><![CDATA[Между 1 и 2 домом]]></data>
+
+
+  <data name="ru_pano20_title"><![CDATA[Площадка перед 2 домом]]></data>
+
+
+  <data name="ru_pano21_title"><![CDATA[Дом 2. Прихожая]]></data>
+
+
+  <data name="ru_pano22_title"><![CDATA[Дом 2. Коридор]]></data>
+
+
+  <data name="ru_pano23_title"><![CDATA[Дом 2. Гостиная]]></data>
+
+
+  <data name="ru_pano24_title"><![CDATA[Дом 2. Мастер спальня]]></data>
+
+
+  <data name="ru_pano25_title"><![CDATA[Дом 2. Предбанник]]></data>
+
+
+  <data name="ru_pano26_title"><![CDATA[Дом 2. Баня]]></data>
+
+
+  <data name="ru_pano27_title"><![CDATA[Дом 2. Малая спальня]]></data>
+
+
+  <data name="ru_pano28_title"><![CDATA[Дом 2. Санузел]]></data>
+
+
+  <data name="ru_pano29_title"><![CDATA[Дом 2. Терраса]]></data>
+
+
+  <data name="ru_pano30_title"><![CDATA[Площадка перед 4 домом]]></data>
+
+
+  <data name="ru_pano31_title"><![CDATA[Дом 4. Прихожая]]></data>
+
+
+  <data name="ru_pano32_title"><![CDATA[Дом 4. Коридор]]></data>
+
+
+  <data name="ru_pano33_title"><![CDATA[Дом 4. Санузел]]></data>
+
+
+  <data name="ru_pano34_title"><![CDATA[Дом 4. Первая спальня]]></data>
+
+
+  <data name="ru_pano35_title"><![CDATA[Дом 4. Вторая спальня]]></data>
+
+
+  <data name="ru_pano36_title"><![CDATA[Дом 4. Гостиная]]></data>
+
+
+  <data name="ru_pano37_title"><![CDATA[Дом 4. Мастер спальня]]></data>
+
+
+  <data name="ru_pano38_title"><![CDATA[Дом 4. Терраса]]></data>
+
+
+  <data name="ru_pano39_title"><![CDATA[Площадка перед 2 домом]]></data>
+
+
+  <data name="ru_pano40_title"><![CDATA[Площадка перед 3 домом]]></data>
+
+
+  <data name="ru_pano41_title"><![CDATA[Дом 3. Прихожая]]></data>
+
+
+  <data name="ru_pano42_title"><![CDATA[Дом 3. Предбанник]]></data>
+
+
+  <data name="ru_pano43_title"><![CDATA[Дом 3. Баня]]></data>
+
+
+  <data name="ru_pano44_title"><![CDATA[Дом 3. Гостиная]]></data>
+
+
+  <data name="ru_pano45_title"><![CDATA[Дом 3. Мастер спальня]]></data>
+
+
+  <data name="ru_pano46_title"><![CDATA[Дом 3. Первая спальня]]></data>
+
+
+  <data name="ru_pano47_title"><![CDATA[Дом 3. Санузел]]></data>
+
+
+  <data name="ru_pano48_title"><![CDATA[Дом 3. Терраса]]></data>
+
+
+  <data name="ru_pano49_title"><![CDATA[Терраса у 4 дома]]></data>
+
+
+  <data name="ru_pano52_title"><![CDATA[Площадка перед 5 домом]]></data>
+
+
+  <data name="ru_pano53_title"><![CDATA[Чан у 3 дома]]></data>
+
+
+  <data name="ru_pano54_title"><![CDATA[Дорога от 5 дома к баням]]></data>
+
+
+  <data name="ru_pano55_title"><![CDATA[Дорога от 5 дома к баням 2 и 3]]></data>
+
+
+  <data name="ru_pano56_title"><![CDATA[Дорога к баням 2 и 3]]></data>
+
+
+  <data name="ru_pano57_title"><![CDATA[Площадка у бани 2]]></data>
+
+
+  <data name="ru_pano58_title"><![CDATA[Дорога к бане 3]]></data>
+
+
+  <data name="ru_pano59_title"><![CDATA[Дорога к бане 1]]></data>
+
+
+  <data name="ru_pano60_title"><![CDATA[Баня 1]]></data>
+
+
+  <data name="ru_pano61_title"><![CDATA[Территория у 1 бани]]></data>
+
+
+  <data name="ru_pano62_title"><![CDATA[Между 1 баней и 8 домом]]></data>
+
+
+  <data name="ru_pano63_title"><![CDATA[Дом 8]]></data>
+
+
+  <data name="ru_pano64_title"><![CDATA[Между домом 8 и 9]]></data>
+
+
+  <data name="ru_pano65_title"><![CDATA[Дом 9]]></data>
+
+  <data name="ru_panogroup1776_title"><![CDATA[Group 1776]]></data>
+
+  <data name="ru_pano1749_title"><![CDATA[Баня 1 баня]]></data>
+  <data name="ru_pano1750_title"><![CDATA[Баня 1 гостиная]]></data>
+  <data name="ru_pano1765_title"><![CDATA[Массажный кабинет]]></data>
+  <data name="ru_pano1769_title"><![CDATA[Санузел в 1 бане]]></data>
+
+  <data name="ru_panogroup1778_title"><![CDATA[Group 1778]]></data>
+
+  <data name="ru_pano1751_title"><![CDATA[Баня 2 баня]]></data>
+  <data name="ru_pano1752_title"><![CDATA[Баня 2 санузел]]></data>
+  <data name="ru_pano1753_title"><![CDATA[Баня 2 чан]]></data>
+  <data name="ru_pano1754_title"><![CDATA[Баня 2]]></data>
+  <data name="ru_pano1759_title"><![CDATA[Беседка]]></data>
+  <data name="ru_pano1766_title"><![CDATA[Пирс]]></data>
+  <data name="ru_pano1767_title"><![CDATA[Путь к реке]]></data>
+  <data name="ru_pano1768_title"><![CDATA[Река]]></data>
+  <data name="ru_pano1770_title"><![CDATA[горка]]></data>
+
+  <data name="ru_panogroup1782_title"><![CDATA[Group 1782]]></data>
+
+  <data name="ru_pano1755_title"><![CDATA[Баня 3 баня]]></data>
+  <data name="ru_pano1756_title"><![CDATA[Баня 3 санузел]]></data>
+  <data name="ru_pano1757_title"><![CDATA[Баня 3 чан]]></data>
+  <data name="ru_pano1758_title"><![CDATA[Баня 3]]></data>
+
+  <data name="ru_panogroup1788_title"><![CDATA[Group 1788]]></data>
+
+  <data name="ru_pano1762_title"><![CDATA[Дом 8 спальня]]></data>
+  <data name="ru_pano1763_title"><![CDATA[Дом 8 терраса]]></data>
+  <data name="ru_pano1764_title"><![CDATA[Дом 8 вход]]></data>
+  <data name="ru_pano1761_title"><![CDATA[Дом 8 гостиная]]></data>
+
+
+  <data name="ru_pano1771_title"><![CDATA[дом 1 чан]]></data>
+
+
+  <data name="ru_pano1772_title"><![CDATA[дом 2 чан]]></data>
+
+
+  <data name="ru_pano1775_title"><![CDATA[дом 5 чан]]></data>
+
+
+  <data name="ru_pano1760_title"><![CDATA[Дом 6 чан]]></data>
+
+
+	<data name="ru_spotmap2444_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2445_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2446_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2447_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2448_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2449_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2450_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2451_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2452_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2453_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2454_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2455_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2456_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2457_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2458_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2459_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2460_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2461_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2462_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2463_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2464_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2465_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2466_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2467_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2468_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2469_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2470_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2471_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2472_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2473_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2474_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2475_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2476_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2477_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2478_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2479_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2480_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2481_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2482_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2483_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2484_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2485_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2486_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2487_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2488_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2489_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2490_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2491_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2492_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2493_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2494_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2495_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2496_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2497_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2498_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2499_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2500_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2501_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2502_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2503_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2504_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2505_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2506_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2507_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2508_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2509_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2510_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2511_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2512_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2513_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2514_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2515_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2516_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2517_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2518_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2519_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2520_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2521_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2522_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap2523_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="ru_controlBar_dockedThumbnailsplayVideoTip"><![CDATA[Play]]></data>
+  <data name="ru_controlBar_dockedThumbnailspauseVideoTip"><![CDATA[Pause]]></data>
+  <data name="ru_controlBar_dockedThumbnailsprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="ru_controlBar_dockedThumbnailsnextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="ru_controlBar_dockedThumbnailszoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="ru_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="ru_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="ru_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="ru_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="ru_controlBar_dockedThumbnailsautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="ru_controlBar_dockedThumbnailsdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="ru_controlBar_dockedThumbnailshideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="ru_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="ru_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="ru_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="ru_controlBar_dockedThumbnailsctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
